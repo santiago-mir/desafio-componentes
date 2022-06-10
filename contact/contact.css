@@ -7,6 +7,11 @@ body{
     font-family: "Poppins";
 }
 
+.header{
+    height: 90px;
+    background-color: #DE4545;
+}
+
 .contact{
     height: 100vh;
     background-color: black;
